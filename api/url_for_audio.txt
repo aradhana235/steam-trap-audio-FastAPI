@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/aradhana235/steam-trap-audio-FastAPI/main/audio_samples/leak/steamTrap_bypass.mp3
+https://github.com/aradhana235/steam-trap-audio-FastAPI/raw/main/audio_samples/blocked/steamTrap_whistle.mp3
